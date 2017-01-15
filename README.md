@@ -4,7 +4,7 @@ Esta es la página de bienvenida
 <hr  />
 <h2>Planificación temporada</h2>
 <a href="https://github.com/jjviton/programRobots/blob/master/programacion/planGeneral_2.docx">
-<img src="https://github.com/jjviton/programRobots/blob/master/imagenes/plan.png" alt="planificacion" style="width:304px;height:228px;">
+<img src="https://github.com/jjviton/programRobots/blob/master/imagenes/plan.png" alt="planificacion" >
 </a>
 
 

@@ -1,5 +1,15 @@
-# planificacicon del curso
+# Planificación del curso Robótica
+
 Esta es la página de bienvenida
+
+
+<hr style="color: #0056b2;" />
+
+
+
+
+
+
 
 
 

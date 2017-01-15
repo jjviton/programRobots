@@ -1,4 +1,4 @@
-# Planificación del curso Robótica....
+# Planificación del curso Robótica +
 
 Esta es la página de bienvenida
 <hr  />

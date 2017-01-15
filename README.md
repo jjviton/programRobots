@@ -1,4 +1,4 @@
-# planificaicon del curso
+# planificacicon del curso
 Esta es la página de bienvenida
 
 

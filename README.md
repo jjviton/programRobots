@@ -16,12 +16,12 @@ Esta es la página de bienvenida
 <tr>
 
 <td><a href="http://fpgawars.github.io/">
-  <img src="imagenes/s4a.png" alt="HTML tutorial" width="254" height="181">
+  <img src="imagenes/logo-scratch.png" alt="HTML tutorial" width="254" height="181">
 </a></td>
 
-<td><img src="https://www.arduino.cc/new_home/assets/illu-arduino-UNO.png" alt="" width="254" height="181" /></td>
+<td><img src="imagenes/s4a.png" alt="" width="254" height="181" /></td>
 
-<td><img src="imagenes/logo-scratch.png" alt="" width="254" height="181" /></td>
+<td><img src="https://www.arduino.cc/new_home/assets/illu-arduino-UNO.png" alt="" width="254" height="181" /></td>
 
 
 </tr>

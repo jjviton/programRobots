@@ -8,21 +8,24 @@ Esta es la página de bienvenida
 </a>
 
 
-
-
-
-
+<hr  />
 
 
 <table style="height: 38px;" width="459">
 <tbody>
 <tr>
+
 <td><a href="http://fpgawars.github.io/">
-  <img src="https://github.com/FPGAwars/icezum/raw/master/wiki/V1.1-RC1/icezum-alhambra-v1.1.jpg" alt="HTML tutorial" width="254" height="181">
+  <img src="imagenes/s4a.png" alt="HTML tutorial" width="254" height="181">
 </a></td>
+
 <td><img src="https://www.arduino.cc/new_home/assets/illu-arduino-UNO.png" alt="" width="254" height="181" /></td>
-<td><img src="imagenes/AAEAAQAAAAAAAAZ2AAAAJDBiYzNlMTQ0LTkyMWYtNDY3My1hODFmLTgxZTYxMjc3OGZlZg[1].jpg" alt="" width="254" height="181" /></td>
+
+<td><img src="imagenes/logo-scratch.png" alt="" width="254" height="181" /></td>
+
+
 </tr>
+
 <tr>
 <td><img src="https://html5-editor.net/tinymce/plugins/emoticons/img/smiley-foot-in-mouth.gif" alt="foot-in-mouth" /></td>
 <td>  

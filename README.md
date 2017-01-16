@@ -19,7 +19,9 @@ Esta es la página de bienvenida
   <img src="imagenes/logo-scratch.png" alt="HTML tutorial" width="254" height="181">
 </a></td>
 
-<td><img src="imagenes/s4a.png" alt="" width="254" height="181" /></td>
+<td><a href="Manuales/Manual_S4A.pdf">
+<img src="imagenes/s4a.png" alt="" width="254" height="181" />
+</a></td>
 
 <td><img src="https://www.arduino.cc/new_home/assets/illu-arduino-UNO.png" alt="" width="254" height="181" /></td>
 

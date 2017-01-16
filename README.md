@@ -3,7 +3,7 @@
 Esta es la página de bienvenida
 <hr  />
 <h2>Planificación temporada</h2>
-<a href="https://github.com/jjviton/programRobots/blob/master/programacion/planGeneral_2.docx">
+<a href="https://github.com/jjviton/programRobots/blob/master/programacion/planGeneral_2.pdf">
   <img src="imagenes/plan.png" alt="planificacion"  width="254" height="181">
 </a>
 

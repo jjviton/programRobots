@@ -30,7 +30,7 @@ Esta es la página de bienvenida
 <td><img src="https://html5-editor.net/tinymce/plugins/emoticons/img/smiley-foot-in-mouth.gif" alt="foot-in-mouth" /></td>
 <td>  
 <a href="https://scratch-io.wikispaces.com/">
-  <img src="https://scratch-io.wikispaces.com/file/view/20150413_140712.jpg/547109164/656x372/20150413_140712.jpg" alt="Scratch IO shield" width="350" height="200">
+  <img src="https://scratch-io.wikispaces.com/file/view/20150413_140712.jpg/547109164/656x372/20150413_140712.jpg" alt="Scratch IO shield" width="290" height="150">
 </a>
 
 

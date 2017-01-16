@@ -1,10 +1,10 @@
-# Planificación del curso Robótica *
+# MAKER LAB... Robótica Alcalá (2017) *
 
 Esta es la página de bienvenida
 <hr  />
 <h2>Planificación temporada</h2>
 <a href="https://github.com/jjviton/programRobots/blob/master/programacion/planGeneral_2.pdf">
-  <img src="imagenes/plan.png" alt="planificacion"  width="254" height="181">
+  <img src="imagenes/plan.png" alt="planificacion"  width="254" height="181"  class="imgcenter">
 </a>
 
 

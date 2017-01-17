@@ -15,7 +15,7 @@ Esta es la página de bienvenida
 <tbody>
 <tr>
 
-<td><a href="programRobots/Manuales/">
+<td><a href="https://github.com/jjviton/programRobots/tree/master/Manuales">
   <img src="imagenes/logo-scratch.png" alt="HTML tutorial" width="254" height="181">
 </a></td>
 

@@ -1,6 +1,6 @@
-# @makerlab... Robótica & Programación (2017) *
+# @makerlab... Robótica & Programación '17
 
-Esta es la página de bienvenida
+Página con contenidos de nuestro laboratorio de robótica y programación para jovenes.
 <hr  />
 <h2>Planificación temporada.....</h2>
 <a href="https://github.com/jjviton/programRobots/blob/master/programacion/planGeneral_2.pdf">

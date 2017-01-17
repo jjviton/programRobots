@@ -15,7 +15,7 @@ Esta es la página de bienvenida
 <tbody>
 <tr>
 
-<td><a href="programRobots/Manuales/Manual_Estudiante_Scratch.pdf">
+<td><a href="programRobots/Manuales/">
   <img src="imagenes/logo-scratch.png" alt="HTML tutorial" width="254" height="181">
 </a></td>
 

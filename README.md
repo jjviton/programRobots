@@ -43,6 +43,19 @@ Página con contenidos de nuestro laboratorio de robótica y programación para 
 </table>
 
 
+<hr />
+
+<hr  />
+<h2>Aprendiendo a Soldar</h2>
+<hr />
+
+
+<a href="https://github.com/jjviton/programRobots/blob/master/programacion/planGeneral_2.pdf">
+  <img src="imagenes/soldercard.png" alt="planificacion"  width="400" height="300"  >
+</a>
+
+
+
 
 
 

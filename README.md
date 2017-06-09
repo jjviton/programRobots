@@ -37,8 +37,10 @@ Página con contenidos de nuestro laboratorio de robótica y programación para 
 
 
 </td>
-<td>&nbsp;</td>
-</tr>
+<td><a href="https://scratch-io.wikispaces.com/file/view/Schematic_V3.pdf/573399977/Schematic_V3.pdf">
+<img src="https://scratch-io.wikispaces.com/file/view/20150413_140712.jpg/547109164/656x372/20150413_140712.jpg" alt="Scratch IO shield" width="250" height="150">
+</a>
+
 </tbody>
 </table>
 

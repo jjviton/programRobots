@@ -29,7 +29,7 @@ Página con contenidos de nuestro laboratorio de robótica y programación para 
 </tr>
 
 <tr>
-<td><img src="https://html5-editor.net/tinymce/plugins/emoticons/img/smiley-foot-in-mouth.gif" alt="foot-in-mouth" /></td>
+<td><img src="http://www.pighixxx.com/test/wp-content/uploads/2017/05/uno.png" alt="" width="254" height="181" /></td>
 <td>  
 <a href="https://scratch-io.wikispaces.com/">
   <img src="https://scratch-io.wikispaces.com/file/view/20150413_140712.jpg/547109164/656x372/20150413_140712.jpg" alt="Scratch IO shield" width="250" height="150">

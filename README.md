@@ -3,7 +3,7 @@
 Página con contenidos de nuestro laboratorio de robótica y programación para jovenes.
 <hr  />
 <h2>Planificación del curso.....</h2>
-<a href="https://github.com/jjviton/programRobots/blob/master/programacion/planGeneral_2.pdf">
+<a href="https://github.com/jjviton/programRobots/blob/master/programacion/planGeneral_2018.pdf">
   <img src="imagenes/plan.png" alt="planificacion"  width="254" height="181"  class="imgcenter">
 </a>
 

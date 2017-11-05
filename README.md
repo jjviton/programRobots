@@ -43,7 +43,7 @@ Página con contenidos de nuestro laboratorio de robótica y programación para 
 </tr>
 
 
-<td><a href="http://www.carobot.cc/how-to/ardublock/">
+<td><a href="https://github.com/jjviton/programRobots/wiki/Ardublock">
 <img src="http://www.carobot.cc/blog/wp-content/uploads/2017/01/ardublock_01.png" alt="Scratch IO shield" width="250" height="150">
 </a>
 </td>
